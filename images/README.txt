@@ -1,0 +1,1 @@
+Save a photo in this folder with the exact name shown inside each white placeholder (for example cover-security.jpg, hero-ict.jpg, job-1.jpg, ict-1.jpg, home-1.jpg). About 1200px wide and under 200 KB is ideal. The placeholder disappears by itself once the file is there.
